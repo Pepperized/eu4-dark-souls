@@ -1,0 +1,31 @@
+# A province can only belong to one area!
+
+#Sea Areas:
+#No restriction on size.
+lorian_sea_area = {
+	16
+}
+
+boreal_valley_area = {
+	2 3 4
+}
+
+profane_reach_area = {
+	5 6 7
+}
+
+ringed_city_area = {
+	11 12 13
+}
+
+dreg_heap_area = {
+	14 15
+}
+
+lorian_peninsula_area = {
+	8 9 10
+}
+
+archdragon_peak_area = {
+	1
+}

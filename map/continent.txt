@@ -1,0 +1,10 @@
+lothric = {
+	#Lothric Mainland
+	2 3 4 5 6 7 8 9 10
+	#Archdragon Peak
+	1
+	#Ringed City
+	11 12 13 14 15
+	#Ocean
+	16
+}

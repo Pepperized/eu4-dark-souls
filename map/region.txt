@@ -1,0 +1,26 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+lothric_region = {
+	areas = {
+		boreal_valley_area
+		lorian_peninsula_area
+		profane_reach_area
+	}
+}
+
+archdragon_peak_region = {
+	areas = {
+		archdragon_peak_area
+	}
+}
+
+ringed_island_region = {
+	areas = {
+		ringed_city_area
+		dreg_heap_area
+	}
+}

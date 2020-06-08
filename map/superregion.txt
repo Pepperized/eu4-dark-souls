@@ -1,0 +1,6 @@
+# A region can only belong to one super region.
+lothric_superregion = {
+	lothric_region
+	archdragon_peak_region
+	ringed_island_region
+}
